@@ -1,0 +1,5 @@
+flask-sqlite/VENV/*
+flask-sqlite/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+flask-sqlite/Untitled.ipynb
+flask-sqlite/__pycache__/app.cpython-310.pyc
+react-admin/public/*
