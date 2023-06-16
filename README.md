@@ -98,4 +98,4 @@ This project is licensed under the BSD 3-Clause License.
 
 ## **Contact**
 
-For more information, feel free to contact me at trangnguyen12002@berkeley.edu :frog: :gem:
+For more information, feel free to contact me at trangnguyen12002@berkeley.edu :frog::gem:
