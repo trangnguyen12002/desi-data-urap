@@ -44,7 +44,6 @@ Simple Flask-React project that loads a dataframe into a SQLite database and sho
 ```
 $ git clone https://github.com/trangnguyen12002/desi-data-urap.git
 ```
-<br>
 
 ### Flask Server Setup
 
@@ -74,7 +73,6 @@ $ flask load-data exposures-fuji.csv
 ```
 $ flask run 
 ```
-<br>
 
 ### React Client Setup 
 
