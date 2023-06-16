@@ -22,9 +22,12 @@ The application uses Flask to surface data from a SQLite database to the DESI fr
 
 ## **User Interface**
 
+Simple Flask-React project that loads a dataframe into a SQLite database and shows the information on a webpage, shown below:  
+
 ![Darkmode](assets/darkmodeFULL.png "Darkmode version")
 
 ![Lightmode](assets/lightmodeFULL.png "Lightmode version")
+
 
 ---
 
@@ -95,5 +98,3 @@ This project is licensed under the BSD 3-Clause License.
 ## **Contact**
 
 For more information, feel free to contact me at trangnguyen12002@berkeley.edu :blush:
-
-
